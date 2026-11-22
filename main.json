@@ -1,0 +1,12 @@
+{
+    "geode": "6.0.0-beta.1",
+    "gd": {
+        "android": "2.2091"
+    },
+    "id": "framecounter.android",
+    "version": "1.0.0",
+    "name": "Android Frame Window Counter",
+    "developer": "YourName",
+    "description": "A 240 TPS frame window counter for Geometry Dash Android.",
+    "dependencies": []
+}
