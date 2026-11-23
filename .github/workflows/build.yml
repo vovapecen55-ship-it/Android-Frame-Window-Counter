@@ -20,6 +20,7 @@ jobs:
         uses: geode-sdk/build-geode-mod@main
         with:
           target: Android64
+          sdk: v6.0.0-beta.2
 
       - name: Upload mod
         uses: actions/upload-artifact@v4
